@@ -3,10 +3,10 @@
 -- #############################
 
 -- crear base de datos
-create database dia3;
+create database dia5;
  
 -- Usar base de datos
-use dia3;
+use dia5;
 
 -- Orden de creacion de tablas
 -- 1. gama_producto
