@@ -1,4 +1,4 @@
-¡Claro, aquí te muestro cómo podrías organizar la información en un archivo README.md para explicar las consultas SQL con ejemplos claros!
+
 
 ```markdown
 # Consultas SQL con Ejemplos
